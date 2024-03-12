@@ -4,10 +4,8 @@ import { appendFileSync } from "node:fs";
 
 export const log = new EventEmitter();
 
-//Path to the log file
 const LOG_PATH = createPath(["data", "log.txt"]);
 
-//Event listeners for the log events
 log
   .on("add-book", (bookId) => {
     appendFileSync(
