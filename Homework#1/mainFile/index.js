@@ -23,15 +23,15 @@ const addBookById = async (title, author, publicationYear, quantity) => {
 
   const newBook = new Books(title, author, publicationYear, quantity);
 
-  //addint it tot the arry
+  //addint it to the arry
   const updatedBook = [...books, newBook];
 
-  //savin in them in the file system
+  //save-in them in the file system
   await saveBooks(updatedBook);
 
   log.emit("add-book", newBook.id);
 };
-// listing all books in the inventory - come back for this one
+// listing all books in the inventory
 const listOfBooks = async () => {
   const books = await getAllBooks();
 
