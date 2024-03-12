@@ -1,0 +1,23 @@
+[
+  {
+    "id": "9dcb8bb9-0797-4be7-a8a8-219f8c5dcc76",
+    "title": "Volshebnoto Samarche",
+    "author": "Vancho Nikoleski",
+    "publicationYear": 1962,
+    "quantity": 5000
+  },
+  {
+    "id": "ca89fb30-d768-4987-9049-6f022972f52b",
+    "title": "Harry Potter and the Half Blood Prince",
+    "author": "JK Rowling",
+    "publicationYear": 2005,
+    "quantity": 60000
+  },
+  {
+    "id": "a0d4153d-b08e-4467-8fdc-0f4a26bc1e2b",
+    "title": "Book 6",
+    "author": "Authur 6",
+    "publicationYear": 30,
+    "quantity": 8
+  }
+]
