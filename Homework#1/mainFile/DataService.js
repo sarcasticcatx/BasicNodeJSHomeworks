@@ -3,9 +3,9 @@ import { readFile, writeFile } from "node:fs/promises";
 export class DataService {
   //1. Read file
   static async readJSONFile(path) {
-    const stringData = await readFile(path, "utf-8");
+    const bookData = await readFile(path, "utf-8");
 
-    return JSON.parse(stringData);
+    return JSON.parse(bookData);
   }
 
   //2. Save file
