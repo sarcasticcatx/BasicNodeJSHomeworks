@@ -1,0 +1,56 @@
+[
+  {
+    "id": "06e0e4d8-4d0e-43a6-b3da-72047570d3e4",
+    "isCurrentlyTeaching": false,
+    "firstName": "Klavcho",
+    "lastName": "Klavchov",
+    "email": "Klavcho@example.com",
+    "timeEmployed": "6 years",
+    "coursesFinished": 10
+  },
+  {
+    "id": "b1d2f584-ea33-4342-b424-275e35a5b0e7",
+    "isCurrentlyTeaching": false,
+    "firstName": "Glavcho",
+    "lastName": "Glavchov",
+    "email": "glavcho@example.com",
+    "timeEmployed": "8 years",
+    "coursesFinished": 50
+  },
+  {
+    "id": "9d3a6afe-68d9-4868-bd18-076931dee507",
+    "isCurrentlyTeaching": false,
+    "firstName": "Rade",
+    "lastName": "Krade",
+    "email": "rade.krade@example.com",
+    "timeEmployed": "3 years",
+    "coursesFinished": 23
+  },
+  {
+    "id": "2ce009e5-7d6d-479e-9c2b-4ea26093a78c",
+    "isCurrentlyTeaching": false,
+    "firstName": "Ila",
+    "lastName": "Svila",
+    "email": "sweetgirl@example.com",
+    "timeEmployed": "15 years",
+    "coursesFinished": 15
+  },
+  {
+    "id": "84043bfc-9ba6-4b6d-9e26-5602630bb97c",
+    "isCurrentlyTeaching": true,
+    "firstName": "Elena",
+    "lastName": "Zelena",
+    "email": "cool.zelena@example.com",
+    "timeEmployed": "35 years",
+    "coursesFinished": 100
+  },
+  {
+    "id": "c7d7ffaf-99a8-4357-ab4f-ede14b90a81c",
+    "isCurrentlyTeaching": true,
+    "firstName": "Buba",
+    "lastName": "Dodeva",
+    "email": "dodeva34@example.com",
+    "timeEmployed": "5 months",
+    "coursesFinished": 2
+  }
+]
