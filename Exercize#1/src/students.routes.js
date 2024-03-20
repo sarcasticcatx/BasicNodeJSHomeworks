@@ -19,8 +19,8 @@ studentsRouter.get("/", async (req, res) => {
     return res.status(500).json({ msg: error.message });
   }
 });
-// get students by id
-studentsRouter.get("/:id", async (req, res) => {
+// get students by id  - neznam shto e problemot tuka mi vrakja error u postman
+studentsRouter.get("/students/:id", async (req, res) => {
   try {
     const studentsId = req.params.id;
 
